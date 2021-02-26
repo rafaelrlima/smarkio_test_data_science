@@ -1,1 +1,6 @@
-# smarkio_test_data_science
+# Smarkio  –  Teste  Prático  Ciência  de  Dados   
+
+
+Descrição do Dataset
+
+
